@@ -1,0 +1,7 @@
+path: /users/l00522665/datasets/coco/yolov5/person_keypoints/
+train: /users/l00522665/datasets/coco/yolov5/person_keypoints/person_keypoints_train2017.txt
+val: /users/l00522665/datasets/coco/yolov5/person_keypoints/person_keypoints_val2017.txt
+
+nc: 1
+
+names: ["person"]
